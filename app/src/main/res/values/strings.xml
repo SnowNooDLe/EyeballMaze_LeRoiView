@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EyeBall</string>
+    <string name="btn_start_text">Start Game</string>
+    <string name="btn_load_text">Help</string>
+    <string name="sound">Sound</string>
+    <string name="sound_off">sound_off</string>
+    <string name="sound_on">sound_on</string>
+</resources>

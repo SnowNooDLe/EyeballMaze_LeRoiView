@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128406474175",
+    "firebase_url": "https://eyeballmazeleroiview.firebaseio.com",
+    "project_id": "eyeballmazeleroiview",
+    "storage_bucket": "eyeballmazeleroiview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128406474175:android:4784ba93e8587931",
+        "android_client_info": {
+          "package_name": "dos0311.ara.ac.nz.eyeball_maze_leroi_view"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128406474175-eadtsnqvoi4n0gkbjrnvnmnoe3jp5ctc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dos0311.ara.ac.nz.eyeball_maze_leroi_view",
+            "certificate_hash": "3682e80400c5030070291de0159bb22537faad54"
+          }
+        },
+        {
+          "client_id": "128406474175-j1f0qla7bet6r728hlqh69pgho1b0tpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsXnkhufPw87nzkiCPYlR7le27GuvZ0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128406474175-j1f0qla7bet6r728hlqh69pgho1b0tpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
